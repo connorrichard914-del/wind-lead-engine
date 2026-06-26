@@ -1,0 +1,302 @@
+{
+  "generated_at": "2026-06-26T03:09:18.264101+00:00",
+  "total_leads": 82,
+  "hot_leads": 30,
+  "average_score": 82.6,
+  "kw20_recommended": 31,
+  "kw30_recommended": 51,
+  "leads_by_region": {
+    "North America": 28,
+    "Africa": 27,
+    "South America": 27
+  },
+  "leads_by_category": {
+    "Hospital": 6,
+    "Military / Government": 6,
+    "Airport": 6,
+    "Manufacturing": 6,
+    "Mining / Oil & Gas": 6,
+    "Water Treatment": 6,
+    "Data Center": 6,
+    "Rural Electric": 6,
+    "Battery Storage / Renewable": 4,
+    "Agriculture": 6,
+    "Tribal": 6,
+    "University": 6,
+    "Telecom": 6,
+    "Microgrid": 6
+  },
+  "hot_lead_threshold": 85,
+  "hot_leads_preview": [
+    {
+      "company_name": "Mayo Clinic",
+      "category": "Hospital",
+      "region": "North America",
+      "location": "Rochester, Minnesota, USA",
+      "lead_score": 95,
+      "recommended_product": "KW30",
+      "outreach_angle": "Mayo Clinic's Rochester campus carries a critical-infrastructure power designation that diesel generators alone cannot satisfy as your 2030 decarbonization timeline tightens — the KW30 is sized for large campus microgrid integration and delivers continuous behind-the-meter generation that reduces grid draw, hedges against Xcel rate exposure, and supports the N+1 redundancy your Tier 1 designation requires without combustion emissions. Given your active IRA Section 48C credit position and the phased DER capital program referenced in your 2023 ESG report, the financial structure for a multi-unit KW30 deployment across Rochester and your satellite campuses is already substantially de-risked on the federal incentive side. I'd welcome a focused conversation with your energy and facilities leadership on how distributed wind slots into the DMC expansion buildout specifically, where embedding generation infrastructure now avoids a far more expensive retrofit later."
+    },
+    {
+      "company_name": "U.S. Army Garrison Fort Wainwright",
+      "category": "Military / Government",
+      "region": "North America",
+      "location": "Fairbanks, Alaska, USA",
+      "lead_score": 92,
+      "recommended_product": "KW30",
+      "outreach_angle": "Fort Wainwright's ERCIP and MILCON energy resilience funding cycles are open now, and the Army's own Implementation Strategy identifies Alaskan installations as high-priority candidates for islanded microgrid development — the KW30 is sized specifically for large institutional campuses like yours, where maximizing generation output per turbine footprint directly offsets diesel and fuel oil consumption across district heating and electrical loads. Deploying a KW30 array integrated into your existing microgrid controls architecture would reduce commercial grid dependency for critical mission facilities, strengthen islanded operation capability, and satisfy Net Zero Energy Installation mandates with a generation asset that performs in the exact temperature and wind regime you operate in. Given the state co-funding pathway through the Alaska Energy Authority and the Fairbanks North Star Borough feasibility work already completed, we can help you structure a project that layers ERCIP grants with state-level cost-share to bring first-year capital exposure down significantly — worth a 30-minute conversation with your installation energy manager."
+    },
+    {
+      "company_name": "Denver International Airport",
+      "category": "Airport",
+      "region": "North America",
+      "location": "Denver, Colorado, USA",
+      "lead_score": 91,
+      "recommended_product": "KW30",
+      "outreach_angle": "DEN has made a public commitment to double its renewable generation capacity and eliminate diesel backup reliance, but solar alone leaves significant gaps in load coverage and provides no generation during the low-irradiance winter months when Colorado wind resources are strongest — a combination of KW30 turbines sited near Concourse fueling and the emergency operations center would directly address that coverage gap while supporting the islanded microgrid architecture your team has already prioritized. The KW30 is purpose-built for large transportation infrastructure: it delivers firm, behind-the-meter generation that reduces Xcel retail exposure on your base load and can be integrated into the energy infrastructure upgrades already scoped within your active capital projects. With the 2040 Denver Green New Deal deadline accelerating your procurement timeline and IIJA grant eligibility still on the table, the business case for moving distributed wind into your master plan now — rather than at the next planning cycle — is straightforward."
+    },
+    {
+      "company_name": "Dangote Cement PLC",
+      "category": "Manufacturing",
+      "region": "Africa",
+      "location": "Lagos, Lagos State, Nigeria",
+      "lead_score": 91,
+      "recommended_product": "KW30",
+      "outreach_angle": "With energy costs consuming over half of Dangote Cement's production budget and grid reliability deteriorating across your East African plant network, the KW30 is sized specifically for heavy industrial load environments — providing continuous behind-the-meter generation that reduces diesel burn, stabilizes on-site power during grid outages, and logs verifiable renewable output against your GCCA net-zero commitments. At your Tanzanian and Ethiopian sites in particular, stacking KW30 units into a hybrid wind-diesel microgrid configuration can materially cut diesel consumption without dependence on grid infrastructure that simply isn't reliable enough to plan around. Given your active conversations with IFC and AfDB on sustainability-linked instruments, we can structure a phased deployment that generates the renewable integration data those financing milestones require — while delivering a measurable reduction in your per-tonne energy cost."
+    },
+    {
+      "company_name": "Kibali Gold Mine (Barrick Gold / AngloGold Ashanti JV)",
+      "category": "Mining / Oil & Gas",
+      "region": "Africa",
+      "location": "Doko, Haut-Uele Province, Democratic Republic of Congo",
+      "lead_score": 91,
+      "recommended_product": "KW30",
+      "outreach_angle": "Kibali's diesel backup fleet is your highest-cost and highest-risk energy input — every litre depends on a logistics chain that runs hundreds of kilometres through northeastern DRC, and your Phase 2 load growth is making that exposure larger, not smaller. The KW30 is purpose-built for heavy industrial microgrids at this scale: it feeds directly into isolated bus architectures, pairs with your existing battery storage, and displaces diesel generation hours without requiring grid interconnection or new control infrastructure. Given Barrick's 2030 renewables target and the dual shareholder pressure from AngloGold's interim Scope 1 reduction commitments, a distributed wind deployment at Kibali carries both a hard-dollar ROI case on diesel displacement and a direct line to disclosed group-level ESG obligations."
+    },
+    {
+      "company_name": "Newmont Corporation – Éléonore Mine",
+      "category": "Mining / Oil & Gas",
+      "region": "North America",
+      "location": "Éléonore, James Bay, Quebec, Canada",
+      "lead_score": 90,
+      "recommended_product": "KW30",
+      "outreach_angle": "Éléonore's diesel dependency is both your largest per-site GHG liability and your highest-cost energy input — two problems that a KW30 array integrated into your existing islanded microgrid addresses directly, without waiting on the uncertain Eastmain corridor timeline. Our KW30 is sized and rated for exactly this profile: an industrial-scale remote microgrid where each turbine delivers meaningful capacity displacement against a diesel baseload, and where an array can be configured to meet the kind of absolute Scope 1 reductions your SBTi pathway requires by 2030. Given Éléonore's eligibility under the CERRC program and Newmont's own Renewable Energy Roadmap, we'd welcome a conversation about how the capital economics pencil out when grant co-funding is layered against your current fuel cost exposure."
+    },
+    {
+      "company_name": "Companhia de Saneamento Básico do Estado de São Paulo (SABESP)",
+      "category": "Water Treatment",
+      "region": "South America",
+      "location": "São Paulo, São Paulo, Brazil",
+      "lead_score": 89,
+      "recommended_product": "KW30",
+      "outreach_angle": "SABESP's electricity bill is the single largest operational cost line in your Integrated Report, and your GD filings under REN 1000/2021 signal that behind-the-meter generation at treatment plant sites is already an active procurement direction — the KW30 is sized specifically for the energy loads present at large wastewater treatment and pumping station infrastructure, where it can deliver meaningful offset against BRL 1.5B+ in annual electricity expenditure. Beyond cost reduction, São Paulo state emergency management requirements for water supply continuity create a formal compliance argument for distributed wind as a resilience asset, not just a sustainability line item. With BNDES financing eligibility and green bond proceeds already designated for on-site renewables, the capital structure to move from RFI to deployment exists today — we'd welcome the opportunity to model site-specific generation economics against your highest-consumption facilities."
+    },
+    {
+      "company_name": "Vantage Data Centers",
+      "category": "Data Center",
+      "region": "North America",
+      "location": "Montreal, Quebec, Canada",
+      "lead_score": 88,
+      "recommended_product": "KW30",
+      "outreach_angle": "As your Montreal campus scales past 100 MW, the gap between Hydro-Québec capacity availability and your demand curve is only going to widen — and your sustainability-linked loan covenants don't wait for the grid to catch up. The KW30 is sized for exactly this context: behind-the-meter distributed wind that generates on-site renewable attribution, flattens peak demand charges, and produces the kind of independently verifiable on-site generation asset that satisfies both your green bond covenants and the Scope 3 supplier requirements your Microsoft and hyperscale tenants are pushing down to you contractually. I'd welcome a focused conversation around what a pilot array integrated into your microgrid configuration would look like on a per-MW cost and covenant-compliance basis."
+    },
+    {
+      "company_name": "Nucor Corporation",
+      "category": "Manufacturing",
+      "region": "North America",
+      "location": "Charlotte, NC, USA",
+      "lead_score": 88,
+      "recommended_product": "KW30",
+      "outreach_angle": "Nucor's Brandenburg and West Virginia mills are being built in wind-resource-viable rural corridors at a moment when energy infrastructure design is still open — that is a narrow window to incorporate distributed wind into the generation stack rather than work around a finished buildout. The KW30 is designed specifically for heavy industrial campuses like yours: continuous behind-the-meter output that offsets wholesale power purchases, reduces grid dependency during peak demand events, and qualifies as a depreciable distributed renewable asset under IRA Section 48. Given that energy cost management is a stated top operational risk in your 10-K, we should have a direct conversation about what a multi-unit KW30 deployment at a greenfield site pencils out to against your current projected energy input costs."
+    },
+    {
+      "company_name": "Greater Toronto Airports Authority (Toronto Pearson International Airport)",
+      "category": "Airport",
+      "region": "North America",
+      "location": "Mississauga, Ontario, Canada",
+      "lead_score": 88,
+      "recommended_product": "KW30",
+      "outreach_angle": "Pearson's central utility plant upgrades and co-generation buildout have already demonstrated GTAA's willingness to move beyond traditional grid supply — the logical next layer is on-site wind generation that feeds directly into those upgraded plants, reduces Scope 1 and 2 emissions against your 2030 targets, and adds generation capacity that keeps terminals operational during grid stress events, which Transport Canada's critical infrastructure designation makes a compliance requirement, not just a resilience preference. The KW30 is sized for exactly this operating environment: continuous heavy loads, integrated co-generation architectures, and sites where generation assets must perform reliably around the clock rather than serve as occasional supplemental supply. With the CIB facility already open and net metering registration providing a monetisation mechanism for surplus generation, the financial structure to make a multi-turbine perimeter installation accretive from year one is already in place — we can model the payback against your current CAD $40–50M annual energy spend before we get to a second meeting."
+    },
+    {
+      "company_name": "Ascenty Data Centers e Telecomunicações S.A.",
+      "category": "Data Center",
+      "region": "South America",
+      "location": "Hortolândia, São Paulo, Brazil",
+      "lead_score": 88,
+      "recommended_product": "KW30",
+      "outreach_angle": "Ascenty's Fortaleza campus is being built into one of Brazil's best wind corridors at a moment when ANEEL's distributed generation framework and your own 100% renewable commitments are creating pressure to move beyond PPA paper credits toward actual on-site generation — the KW30 is sized specifically for the continuous load profiles and 2N redundancy architecture of hyperscale Tier III/IV facilities, and in Ceará's wind regime it can deliver meaningful diesel displacement with bankable capacity factors. For a campus where grid instability is already a documented operational risk, a behind-the-meter KW30 array integrated with battery storage reduces both your Scope 1 diesel exposure and your dependence on a grid that cannot guarantee frequency stability. I'd welcome a direct conversation about how other data center operators have structured the capex case for distributed wind as a redundancy asset rather than a generation afterthought — the numbers look materially different when you account for avoided diesel fuel, carbon credit value under Brazil's emerging CBIO framework, and reduced generator maintenance cycles."
+    },
+    {
+      "company_name": "Dairyland Power Cooperative",
+      "category": "Rural Electric",
+      "region": "North America",
+      "location": "La Crosse, Wisconsin, USA",
+      "lead_score": 87,
+      "recommended_product": "KW20",
+      "outreach_angle": "Dairyland's Pathways to Zero strategy and coal retirement timeline are creating a near-term dispatchable capacity gap that solar alone won't close — particularly for member co-ops carrying load on long radial lines where outages are costly and diesel backup is the current fallback. The KW20 is sized specifically for farm and grain elevator applications, producing roughly 20 kW of continuous behind-the-meter generation that reduces purchased load, qualifies for REAP grant stacking, and feeds directly into your SmartSense DER management framework without requiring substation-level interconnection. For member co-ops replacing diesel generation or reinforcing reliability at rural distribution points, the KW20 delivers a 15–20 year asset life with fuel-cost elimination — a straightforward resilience and cost-recovery case your members can bring to their boards."
+    },
+    {
+      "company_name": "Ameresco, Inc.",
+      "category": "Battery Storage / Renewable",
+      "region": "North America",
+      "location": "Framingham, Massachusetts, USA",
+      "lead_score": 87,
+      "recommended_product": "KW30",
+      "outreach_angle": "Ameresco's solar+storage microgrids at remote federal and military sites perform well in summer, but winter low-sun conditions and extended cloudy periods at high-latitude installations in Canada and Hawaii can stress battery reserves and force diesel fallback — a compliance and resilience liability under DoD energy security standards. The KW30 is sized specifically for critical infrastructure microgrids and integrates cleanly into existing solar+storage architectures as a dispatchable wind generation layer, improving system uptime and reducing diesel runtime hours without requiring a new interconnection study. Given your ESPC structure, the KW30's output directly reduces utility or fuel costs over the contract term, which means it strengthens the savings guarantee you're underwriting for federal clients while helping you meet the renewable generation metrics in your sustainability reporting."
+    },
+    {
+      "company_name": "SLC Agrícola S.A.",
+      "category": "Agriculture",
+      "region": "South America",
+      "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+      "lead_score": 87,
+      "recommended_product": "KW20",
+      "outreach_angle": "SLC Agrícola's fazendas in Piauí and western Bahia are running on diesel in some of the strongest wind corridors in South America — that's a cost structure problem with a direct technical answer. The KW20 is purpose-built for isolated agricultural sites with intermittent or absent grid access, delivering reliable behind-the-meter generation that reduces diesel hours on irrigation and drying systems at the individual farm unit level. Given your ESG roadmap's 2030 emissions targets and the CBio credit framework you're already operating under, each turbine deployment generates both verifiable Scope 1 reduction documentation and a measurable payback case against current diesel expenditure — worth a conversation with your farm infrastructure or energy procurement team."
+    },
+    {
+      "company_name": "Hospital Israelita Albert Einstein",
+      "category": "Hospital",
+      "region": "South America",
+      "location": "São Paulo, São Paulo, Brazil",
+      "lead_score": 87,
+      "recommended_product": "KW30",
+      "outreach_angle": "Given Einstein's JCI accreditation requirements and the grid rationing risk São Paulo hospitals experienced in 2021, adding dedicated wind generation capacity through the KW30 directly strengthens your power sovereignty for critical care operations in a way that neither grid contracts nor solar alone can fully address — particularly during overnight and low-irradiance periods. The KW30's output capacity is sized for exactly the kind of large institutional campus load your Morumbi facility carries, and it can be integrated alongside your existing CHP plant to form a more complete distributed generation stack under the 'Einstein Sustentável' framework. With Brazil's updated distributed generation legislation reducing payback timelines and your campus expansion already triggering an infrastructure procurement cycle, the business case for scoping wind now — rather than retrofitting later — is straightforward."
+    },
+    {
+      "company_name": "Aluar Aluminio Argentino S.A.I.C.",
+      "category": "Manufacturing",
+      "region": "South America",
+      "location": "Puerto Madryn, Chubut, Argentina",
+      "lead_score": 87,
+      "recommended_product": "KW30",
+      "outreach_angle": "Aluar's electrolytic pot lines cannot afford a grid interruption — and with Puerto Madryn's documented wind resource above 9 m/s year-round, on-site KW30 turbines can deliver continuous behind-the-meter generation that directly reinforces the captive energy model you already operate at Futaleufú, while reducing exposure to Argentina's transmission-dependent grid. A distributed array of KW30 units integrated into a hybrid microgrid at the smelter site addresses your three most pressing energy concerns simultaneously: Law 27.191 renewable compliance, protection against pot freeze risk during grid events, and a long-term hedge against fuel and electricity price volatility that your own financial disclosures identify as a primary operational risk. Given Chubut's provincial incentives for industrial self-generation and the MATER regulatory framework already in place, the pathway from feasibility to energized capacity is shorter here than almost anywhere else in the region — and the business case closes on resilience value alone before you account for compliance penalties avoided."
+    },
+    {
+      "company_name": "Korle Bu Teaching Hospital",
+      "category": "Hospital",
+      "region": "Africa",
+      "location": "Accra, Greater Accra, Ghana",
+      "lead_score": 87,
+      "recommended_product": "KW30",
+      "outreach_angle": "Korle Bu's expanding campus — now including the new children's block and oncology centre — means your total electrical load is growing precisely when grid reliability in Accra remains unresolved, and a solar-only hybrid still leaves critical care units exposed during low-irradiance periods. The KW30 is sized for exactly this class of facility: deployed in a wind-solar configuration, it provides dispatchable baseload contribution that solar panels cannot deliver after sunset or under cloud cover, materially reducing the diesel runtime your generators are currently accumulating at over USD 1.2 million per year. With AfDB and World Bank financing available under GEDAP and Ghana's National Energy Transition Framework, the capital structure for a KW30-anchored microgrid here is fundable today — and the payback case under current fuel pricing is straightforward to model."
+    },
+    {
+      "company_name": "Green Mountain Power",
+      "category": "Data Center",
+      "region": "North America",
+      "location": "Colchester, Vermont, USA",
+      "lead_score": 86,
+      "recommended_product": "KW30",
+      "outreach_angle": "GMP's IRP identifies a winter renewable shortfall across your Vermont service territory at the same time your virtual power plant and BYOD programs are actively scaling distributed generation nodes — the KW30 is sized to contribute meaningfully to that gap at each node, with islanding capability that directly supports your Climate & Resilience Hub's grid-outage mandate. Given your existing relationships with behind-the-meter vendors and your ISO-New England interconnection queue activity, integrating KW30 units into your DER stack is an operationally familiar process rather than a net-new buildout. With GRIP-eligible federal co-funding on the table and New England winter capacity prices creating measurable peak-offset economics, the business case for piloting KW30 deployment across select Vermont nodes is straightforward to model."
+    },
+    {
+      "company_name": "Navajo Tribal Utility Authority",
+      "category": "Tribal",
+      "region": "North America",
+      "location": "Fort Defiance, Arizona, USA",
+      "lead_score": 86,
+      "recommended_product": "KW20",
+      "outreach_angle": "NTUA has done the hard work of proving out solar-plus-storage in remote Chapter communities, but battery degradation in the Four Corners temperature range and seasonal solar gaps are real operational constraints that wind can directly offset — the KW20 is sized and ruggedized specifically for that hybrid role in small, remote community microgrids. A wind-solar hybrid configuration using the KW20 reduces diesel runtime, extends battery cycle life, and delivers more consistent baseload generation year-round at the Chapter House scale without requiring transmission infrastructure. Given your active DOE Office of Indian Energy grant eligibility and the Navajo Nation Energy Policy mandate, a pilot deployment across two or three Chapter communities this funding cycle would establish a replicable model with a defensible cost-per-household ROI and a clear path to scaling across the remaining off-grid sites."
+    },
+    {
+      "company_name": "Coeur Mining, Inc.",
+      "category": "Mining / Oil & Gas",
+      "region": "North America",
+      "location": "Chicago, IL, USA (operations in Alaska, Idaho, Nevada, South Dakota)",
+      "lead_score": 86,
+      "recommended_product": "KW30",
+      "outreach_angle": "Coeur's Kensington operation is carrying one of the heaviest diesel cost burdens in North American mining — every gallon of fuel that doesn't have to be barged to southeast Alaska directly improves site economics and moves the needle on the Scope 1 reduction targets your sustainability report commits to. The KW30 is sized for industrial off-grid applications exactly like Kensington: it's designed to integrate into existing diesel microgrid infrastructure and deliver meaningful displacement at the output levels a continuous mining operation requires. Given the Class 4–5 wind resource at the site and current diesel transport costs, the payback case is straightforward to model — and given board-level TCFD oversight of your energy decarbonisation decisions, we can structure the analysis to speak directly to both the financial return and the measurable emissions reduction your reporting framework requires."
+    },
+    {
+      "company_name": "Aceitera General Deheza S.A. (AGD)",
+      "category": "Agriculture",
+      "region": "South America",
+      "location": "General Deheza, Córdoba, Argentina",
+      "lead_score": 86,
+      "recommended_product": "KW30",
+      "outreach_angle": "AGD's crushing operations are running 24/7 inside a grid that ENRE data shows can drop industrial zones in Córdoba for more than 200 hours a year — that exposure is a direct operational and financial liability that behind-the-meter wind generation can structurally reduce. The KW30 is sized for continuous heavy industrial demand and can be deployed in arrays alongside your existing substation and transformer upgrades, avoiding a standalone procurement cycle and compressing installation timelines. With MATER self-supply registration available above 300 kW and the 2025 provincial renewable consumption threshold approaching, a KW30 deployment at General Deheza or Río Tercero simultaneously addresses resilience, tariff sovereignty, and regulatory compliance in a single capital decision."
+    },
+    {
+      "company_name": "Companhia Siderúrgica Nacional (CSN)",
+      "category": "Manufacturing",
+      "region": "South America",
+      "location": "Volta Redonda, Rio de Janeiro, Brazil",
+      "lead_score": 86,
+      "recommended_product": "KW30",
+      "outreach_angle": "CSN's remote mining and port operations in Minas Gerais and Pará are carrying diesel genset costs and curtailment exposure that a distributed wind array of KW30 units can directly displace — without waiting on grid expansion or ONS dispatch decisions. At your Tecar and Itaguaí logistics facilities, multi-turbine KW30 installations operating within ANEEL's 5 MW per connection point threshold would generate captive renewable megawatt-hours that count toward your I-REC procurement targets and reduce Scope 2 intensity at the asset level, not just on paper. Given CSN's existing BNDES credit relationships, a Finame Energia Renovável-financed KW30 deployment could be structured with payback driven by avoided diesel and industrial tariff savings, making the business case straightforward to present to your energy and sustainability leadership."
+    },
+    {
+      "company_name": "Rural Electrification Agency Nigeria (REA)",
+      "category": "Rural Electric",
+      "region": "Africa",
+      "location": "Abuja, FCT, Nigeria",
+      "lead_score": 86,
+      "recommended_product": "KW20",
+      "outreach_angle": "REA's NEP Phase 2 tenders are explicitly requiring wind-solar-storage hybridisation, yet most mini-grid developers in Nigeria are still sourcing PV-only equipment because bankable small wind options have been scarce — the KW20 closes that gap with a turbine sized precisely for rural agricultural and community mini-grid loads in the 15–25 kW range. Integrating KW20 units at sites where wind complements low-irradiance hours reduces diesel runtime and strengthens the energy availability guarantees that your results-based financing framework demands from private developers. With $750 million in DARES funding available and the 2023 Electricity Act accelerating sub-national procurement cycles, we'd welcome the opportunity to present a technical and commercial case for KW20 deployment within your active NEP and EAP pipeline sites."
+    },
+    {
+      "company_name": "Rand Water",
+      "category": "Water Treatment",
+      "region": "Africa",
+      "location": "Vereeniging, Gauteng, South Africa",
+      "lead_score": 86,
+      "recommended_product": "KW30",
+      "outreach_angle": "Rand Water's remote pumping stations across Gauteng, North West, and Mpumalanga are carrying the full weight of South Africa's load-shedding crisis, and diesel backup at that scale is neither sustainable nor cost-competitive against a KW30 wind asset generating behind-the-meter at R0 marginal cost per kWh. The KW30 is sized specifically for continuous heavy-load infrastructure like water treatment works — it runs independent of the Eskom grid, integrates directly into hybrid solar-storage configurations you're already evaluating, and reduces your tariff exposure on the highest-consumption nodes in your network. Given your DBSA and IDC eligibility, the capital case closes faster than most comparable infrastructure projects, and every unit of Eskom load displaced directly supports your board-level net-zero commitments with auditable generation data."
+    },
+    {
+      "company_name": "University of British Columbia",
+      "category": "University",
+      "region": "North America",
+      "location": "Vancouver, British Columbia, Canada",
+      "lead_score": 85,
+      "recommended_product": "KW30",
+      "outreach_angle": "UBC's microgrid resilience study identified a specific gap that solar PV cannot close — the need for a continuously generating on-site asset that produces power when the sun isn't shining — and the Okanagan Valley wind resource means a KW30 installation at UBCO can deliver predictable baseload-equivalent generation that feeds directly into your campus energy infrastructure. Given your NRCan SREPs milestones require documented renewable generation output on a defined timeline, a KW30 deployment at UBCO gives your Facilities and Sustainability teams a concrete, measurable generation addition you can report against your Second Nature Carbon Commitment and 2030 Climate Action Plan targets before the next reporting cycle. The Living Lab program's existing framework for piloting distributed energy technologies on campus infrastructure significantly reduces the procurement friction, and we can structure the business case around your capital allocation with a clear cost-per-kWh comparison against your current district energy inputs."
+    },
+    {
+      "company_name": "Bell Canada (BCE Inc.)",
+      "category": "Telecom",
+      "region": "North America",
+      "location": "Verdun, Quebec, Canada",
+      "lead_score": 85,
+      "recommended_product": "KW20",
+      "outreach_angle": "Bell's remote tower sites face a compounding problem: diesel fuel logistics in northern Canada are both expensive and operationally fragile, and your 2025 net-zero Scope 1 commitment puts a hard deadline on finding replacements that actually work in sub-arctic conditions. The KW20 is purpose-built for exactly this use case — a distributed 20 kW turbine sized to match typical remote tower loads, deployable as part of a wind-solar-battery hybrid that eliminates the fuel supply chain risk BCE flagged in its CRTC regulatory filings. With CERRC funding available to offset capital costs and fixed-cost wind generation hedging against diesel price volatility, the business case closes faster than most renewable alternatives at this site scale."
+    },
+    {
+      "company_name": "Compañía Minera Antamina S.A.",
+      "category": "Mining / Oil & Gas",
+      "region": "South America",
+      "location": "Huaraz, Ancash, Peru",
+      "lead_score": 85,
+      "recommended_product": "KW30",
+      "outreach_angle": "Antamina's auxiliary and camp infrastructure at 4,300 m carries a diesel cost penalty that no operational efficiency program can fully close — the physics of thin air at altitude make distributed wind generation the most direct lever available for reducing per-kWh generation costs across those loads while simultaneously retiring Scope 1 emissions that BHP's 2030 interim targets are already measuring. The KW30 is engineered for continuous-duty distributed generation at heavy industrial and large off-grid sites exactly like Antamina's camp and processing support footprint, and a phased array deployment can be structured to align with the NCRE feasibility work your sustainability team has already initiated under your 2023 roadmap. Given the regulatory incentive structure under D.S. 009-2022-EM and the diesel displacement economics at your altitude, we can model a site-specific payback case worth reviewing before your next capital planning cycle."
+    },
+    {
+      "company_name": "RACK CENTRE",
+      "category": "Data Center",
+      "region": "Africa",
+      "location": "Lagos, Lagos State, Nigeria",
+      "lead_score": 85,
+      "recommended_product": "KW30",
+      "outreach_angle": "Rack Centre's Tier III uptime commitment in a sub-50% grid availability environment means your diesel generators are running as baseload, not backup — and at post-subsidy fuel prices, that is a significant and growing cost center with no natural ceiling. The KW30 is sized for continuous high-load facilities like yours and can be deployed in a hybrid microgrid configuration that directly offsets diesel runtime hours, reducing both fuel spend and generator maintenance cycles while contributing toward the renewable energy targets Equinix has committed to across its global portfolio. Given your announced capacity expansion and the ESG due diligence requirements flowing down from your hyperscaler and financial sector tenants, the business case here combines operational cost reduction, contractual resilience, and client-facing sustainability compliance in a single capital investment."
+    },
+    {
+      "company_name": "Jomo Kenyatta International Airport (Kenya Airports Authority)",
+      "category": "Airport",
+      "region": "Africa",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "lead_score": 85,
+      "recommended_product": "KW30",
+      "outreach_angle": "KAA is carrying a growing electricity cost burden — KPLC tariff increases of 15–20% annually compound directly against JKIA's operating budget, while diesel backup dependency adds both cost and carbon liability that conflicts with your NDC commitments and ICAO carbon reduction targets tied to the Phase 2 expansion. The KW30 is sized for exactly this load profile: continuous behind-the-meter generation for large critical facilities, interconnecting at the facility substation level so output offsets utility draw without grid dependency. With AfDB financing already engaged, Kenya's concessional clean energy incentives under Vision 2030 applicable to state-owned infrastructure, and a Phase 2 design process still open for specification, the financial and procurement timing to lock in on-site wind generation at JKIA is narrow and worth a direct conversation."
+    },
+    {
+      "company_name": "CrossBoundary Energy Access",
+      "category": "Battery Storage / Renewable",
+      "region": "Africa",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "lead_score": 85,
+      "recommended_product": "KW20",
+      "outreach_angle": "CrossBoundary's mini-grids are already engineered for hybridity — the remaining constraint is a dispatchable generation source that produces at night, reduces curtailment, and improves the CO2-per-site numbers your impact reports track. The KW20 is sized precisely for the load profiles your rural anchor-load sites carry, and at sites in the Lake Victoria corridor and Zambian plateau where your wind data already clears 5 m/s, adding a KW20 per site meaningfully reduces battery cycling costs and extends pack life — a direct improvement to your per-site unit economics. Given your existing results-based financing arrangements with REA Tanzania and your DFI relationships, the incremental capital required to trial KW20 units across a defined site cluster is likely financeable within your current facility agreements, making this a low-friction way to validate hybrid wind-solar-storage performance at scale before your next portfolio expansion phase."
+    }
+  ]
+}
